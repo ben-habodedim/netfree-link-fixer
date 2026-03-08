@@ -7,8 +7,8 @@
 
 לדוגמה:
 
-https://drive.google.com/drive/folders/1hbn1WDPSlabcq1euK77_hOtUMUkeq
-https://send.magicode.me/send-file/file/6fab685faabcd6b294134e85ff3fdf31685/view
+https://drive.google.com/drive/folders/1hbn1WDPSlabcq*******1euK77_hOtUMUkeq
+https://send.magicode.me/send-file/file/6fab685faabcd6b294!!!!!!!!!!1134e85ff3fdf31685/view
 
 
 והופך אותם לקישור תקין.
@@ -21,17 +21,6 @@ https://send.magicode.me/send-file/file/6fab685faabcd6b294134e85ff3fdf31685/view
 תמיכה בקישורי MagiCode  
 ניקוי תווים מיותרים מתוך קישורים
 
-## דוגמאות
-
-קלט:
-
-https://drive.google.com/file/d/123/view  
-https://example.com/page  
-
-פלט:
-
-https://drive.google.com/file/d/123/view  
-https://example.com/page  
 
 ## התקנה (Chrome / Edge / Brave)
 
@@ -57,4 +46,4 @@ Mozilla Firefox (עם התאמות קטנות)
 לעזור למשתמשים בקהילות מסוננות לפתוח קישורים שנכתבו בצורה שבורה כדי למנוע זיהוי אוטומטי.
 
 ## רישיון
-
+GNU general public license v3
